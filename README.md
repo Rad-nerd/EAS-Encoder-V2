@@ -42,14 +42,14 @@ This project is a web-based EAS (Emergency Alert System) Encoder. It allows you 
 
 The project is structured with the following files:
 
-* `index.html`: The main HTML structure of the application.
-* `style.css`: Contains the CSS for styling the encoder's user interface.
-* `audio.js`: Likely handles the audio generation and playback logic.
-* `utils.js`: Contains utility functions used throughout the application.
-* `dec.js`: Could be related to decoding or specific digital encoding aspects.
-* `same.js`: Handles the SAME (Specific Area Message Encoding) header generation and processing.
-* `alert.js`: Manages the alert generation flow.
-* `main.js`: The primary JavaScript file orchestrating the application's logic.
+* `index.html`
+* `style.css`
+* `audio.js`
+* `utils.js`
+* `dec.js`
+* `same.js`
+* `alert.js`
+* `main.js`
 
 ---
 
